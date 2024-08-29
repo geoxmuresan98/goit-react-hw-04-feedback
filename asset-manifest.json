@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geoxmuresan98/goit-react-hw-04-feedback/static/css/main.32aa5810.css",
+    "main.js": "/geoxmuresan98/goit-react-hw-04-feedback/static/js/main.1d5cc8dc.js",
+    "index.html": "/geoxmuresan98/goit-react-hw-04-feedback/index.html",
+    "main.32aa5810.css.map": "/geoxmuresan98/goit-react-hw-04-feedback/static/css/main.32aa5810.css.map",
+    "main.1d5cc8dc.js.map": "/geoxmuresan98/goit-react-hw-04-feedback/static/js/main.1d5cc8dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32aa5810.css",
+    "static/js/main.1d5cc8dc.js"
+  ]
+}
